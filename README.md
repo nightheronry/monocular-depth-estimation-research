@@ -25,6 +25,8 @@
   + [code](www.github.com/wvangansbeke/Recurrent-Depth-Estimation)
 
 ## 2019
+* Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence
+  + [paper](https://people.cs.nctu.edu.tw/~walon/publications/lai2019cvpr.pdf)
 * 3D Packing for Self-Supervised Monocular Depth Estimation
   + [paper](https://arxiv.org/pdf/1905.02693.pdf)
 * Self-supervised Learning with Geometric Constraints in Monocular Video Connecting Flow, Depth, and Camera
